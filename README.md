@@ -1,53 +1,63 @@
-<h1 align="center">Dev Kumar</h1>
+<div align="center">
 
-<p align="center">
-  Web Developer · B.Tech IT · Building stronger foundations in modern web development
-</p>
+# 👋 Hey, I'm Dev Kumar
 
-<p align="center">
-  <a href="https://github.com/Devkumar2024">
-    <img src="https://img.shields.io/badge/GitHub-Devkumar2024-181717?style=flat-square&logo=github" />
-  </a>
-  <a href="https://linkedin.com/in/dev-kumar-0b59951b0">
-    <img src="https://img.shields.io/badge/LinkedIn-Dev%20Kumar-0A66C2?style=flat-square&logo=linkedin" />
-  </a>
-  <a href="mailto:kumarravi91158@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-</p>
+**Web Development · Backend · Problem Solving**
+
+B.Tech IT graduate focused on building practical web applications and developing strong software engineering fundamentals.
+
+<a href="https://github.com/Devkumar2024"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://linkedin.com/in/dev-kumar-0b59951b0"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:kumarravi91158@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+</div>
 
 ---
 
-### About
+### `$ whoami`
 
-I'm a B.Tech IT graduate focused on **web development** and building practical development skills through projects.
+```text
+Dev Kumar
+├── 🎓 B.Tech — Information Technology
+├── 💻 Focus — Web & Backend Development
+├── 🧠 Problem Solving — C++ / DSA
+└── 📍 Punjab, India
+```
 
-Currently strengthening **JavaScript and web fundamentals**, while continuing **C++ & DSA** for problem solving.
+### `> tech`
 
-### Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,git,github,vscode" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,git,github,vscode,mysql&perline=8" />
 </p>
 
-**Currently learning:** React · Backend Development · SQL
+<div align="center">
 
-### Current Focus
+**Working with** `HTML` · `CSS` · `JavaScript` · `C++` · `Git` · `GitHub` · `MySQL`
 
-* Building and documenting web projects
-* Improving JavaScript fundamentals
-* Learning backend development and databases
-* Practicing C++ and DSA
+**Exploring next** `React` · `Backend Development` · `APIs`
 
-### GitHub
+</div>
 
-<p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Devkumar2024&show_icons=true&hide_border=true&hide_title=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devkumar2024&layout=compact&hide_border=true&hide_title=true&langs_count=6" />
-</p>
+### `> currently`
+
+```yaml
+building:      Web development projects
+learning:      JavaScript → React → Backend
+practicing:    C++ & Data Structures
+improving:     Git workflows & project documentation
+```
+
+### `> projects`
+
+**Web Development** — Frontend, JavaScript and progressively full-stack projects
+**Problem Solving** — C++ implementations, DSA practice and programming exercises
+
+→ [Browse my repositories](https://github.com/Devkumar2024?tab=repositories)
 
 ---
 
-<p align="center">
-  <sub>Learning by building and improving one project at a time.</sub>
-</p>
+<div align="center">
+
+**Build. Break. Debug. Repeat.**
+
+<sub>Always learning — one commit at a time.</sub>
+
+</div>
