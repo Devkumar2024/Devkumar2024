@@ -1,33 +1,176 @@
-<h1 align="center">Hi 👋, I'm Dev kumar 
-  (old id https://github.com/Devkumar2021024)</h1>
-<h3 align="center">A passionate CS student</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devkumar2024&label=Profile%20views&color=0e75b6&style=flat" alt="devkumar2024" /> </p>
+# Hi, I'm Dev Kumar 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devkumar2024" alt="devkumar2024" /></a> </p>
+### Web Developer • CS Graduate • Building & Learning
 
-- 🌱 I’m currently learning **react, c++, dsa**
+I'm focused on strengthening my **web development skills**, building practical projects, and improving my understanding of software development one step at a time.
 
-- 👨‍💻 All of my projects are available at [https://github.com/Devkumar2024](https://github.com/Devkumar2024)
+[![GitHub](https://img.shields.io/badge/GitHub-Devkumar2024-181717?style=for-the-badge\&logo=github)](https://github.com/Devkumar2024)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dev%20Kumar-0A66C2?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/dev-kumar-0b59951b0)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:kumarravi91158@gmail.com)
 
-- 📫 How to reach me **kumarravi91158@gmail.com**
+![Profile Views](https://komarev.com/ghpvc/?username=Devkumar2024\&label=Profile%20Views\&color=0e75b6\&style=flat)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/dev-kumar-0b59951b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dev-kumar-0b59951b0" height="30" width="40" /></a>
-<a href="https://instagram.com/dev_dk003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dev_dk003" height="30" width="40" /></a>
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+```javascript
+const dev = {
+    name: "Dev Kumar",
+    location: "Punjab, India",
+    education: "B.Tech in Information Technology",
+
+    focus: [
+        "Web Development",
+        "Backend Development",
+        "Data Structures & Algorithms"
+    ],
+
+    currentlyLearning: [
+        "JavaScript",
+        "Modern Web Development",
+        "Backend Fundamentals",
+        "C++ & DSA"
+    ],
+
+    philosophy: "Learn → Build → Break → Debug → Improve"
+};
+```
+
+I enjoy understanding how things work behind the interface — from writing clean frontend code to exploring backend development and the fundamentals that power software.
+
+Right now, I'm focused on **building consistently rather than collecting technologies**.
+
+---
+
+## 🧭 Current Journey
+
+```text
+HTML / CSS
+    ↓
+JavaScript
+    ↓
+Modern Frontend
+    ↓
+Backend Development
+    ↓
+Databases & APIs
+    ↓
+Full-Stack Projects
+```
+
+Alongside web development, I continue practicing **C++ and Data Structures & Algorithms** to strengthen my problem-solving fundamentals.
+
+---
+
+## 🛠️ Tech Stack
+
+### Core Web
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### Exploring & Building With
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devkumar2024&show_icons=true&locale=en&layout=compact" alt="devkumar2024" /></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mysql" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devkumar2024&show_icons=true&locale=en" alt="devkumar2024" /></p>
+### Programming & Problem Solving
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devkumar2024&" alt="devkumar2024" /></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp" />
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devkumar2024&langs_count=8&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### Tools
 
-[![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Devkumar2024&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
 
+> I prefer listing technologies I'm actively learning or working with rather than every technology I've encountered.
+
+---
+
+## 🚀 Projects
+
+I'm currently organizing and improving my projects as I progress through web development.
+
+### 🌐 Web Development
+
+Projects focused on frontend fundamentals, responsive interfaces, JavaScript, and progressively more complete web applications.
+
+➡️ **[Explore my repositories](https://github.com/Devkumar2024?tab=repositories)**
+
+### 🧠 Programming & DSA
+
+A collection of programming exercises and problem-solving work using **C and C++**.
+
+➡️ **[View my GitHub](https://github.com/Devkumar2024)**
+
+> More projects are being built and documented — this section will evolve with them.
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Devkumar2024&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Devkumar2024&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devkumar2024&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+[![Dev's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Devkumar2024\&theme=github-compact\&hide_border=true)](https://github.com/Devkumar2024)
+
+---
+
+## 🎯 What I'm Working On
+
+* 🌐 Strengthening my **web development fundamentals**
+* ⚙️ Moving deeper into **backend development**
+* 🧩 Practicing **C++ & DSA**
+* 🛠️ Building projects instead of only following tutorials
+* 📚 Improving my understanding of **core computer science concepts**
+* 🔧 Using **Git & GitHub** consistently throughout development
+
+---
+
+## 🤝 Connect With Me
+
+I'm always open to connecting with developers, learning from others, and discussing software development.
+
+<p align="left">
+<a href="https://linkedin.com/in/dev-kumar-0b59951b0">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:kumarravi91158@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+---
+
+<div align="center">
+
+### `Learning. Building. Improving.`
+
+<sub>Thanks for visiting my profile 👨‍💻</sub>
+
+</div>
