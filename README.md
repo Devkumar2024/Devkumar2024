@@ -21,7 +21,13 @@ Dev Kumar
 ├── 🧠 Problem Solving — C++ / DSA
 └── 📍 Punjab, India
 ```
+### `> language stats`
 
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devkumar2024&layout=compact&hide_border=true&langs_count=8" />
+
+</div>
 ### `> tech`
 
 <p align="center">
