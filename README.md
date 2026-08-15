@@ -22,12 +22,11 @@ Dev Kumar
 └── 📍 Punjab, India
 ```
 ### `> language stats`
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Devkumar2024/github-stats/generated/overview.svg" />
+  <img src="https://raw.githubusercontent.com/Devkumar2024/github-stats/generated/languages.svg" />
+</p>
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devkumar2024&layout=compact&hide_border=true&langs_count=8" />
-
-</div>
 ### `> tech`
 
 <p align="center">
