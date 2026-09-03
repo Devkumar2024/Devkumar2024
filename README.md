@@ -50,13 +50,6 @@ practicing:    C++ & Data Structures
 improving:     Git workflows & project documentation
 ```
 
-### `> projects`
-
-**Web Development** — Frontend, JavaScript and progressively full-stack projects
-**Problem Solving** — C++ implementations, DSA practice and programming exercises
-
-→ [Browse my repositories](https://github.com/Devkumar2024?tab=repositories)
-
 ---
 
 <div align="center">
